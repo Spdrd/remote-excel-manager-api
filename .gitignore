@@ -1,0 +1,13 @@
+*.pdf
+*.xlsx
+*.pyc
+*__pycache__/
+.env
+instance/
+.vscode/
+.DS_Store
+.idea/
+venv/
+env/
+*.log
+
